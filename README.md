@@ -1,6 +1,6 @@
 # npmtest-browser-sync
 
-#### test coverage for  [browser-sync (v2.18.8)](http://www.browsersync.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-browser-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browser-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browser-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-browser-sync)
+#### basic test coverage for  [browser-sync (v2.18.8)](http://www.browsersync.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-browser-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browser-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browser-sync.svg)](https://travis-ci.org/npmtest/node-npmtest-browser-sync)
 
 #### Live CSS Reload & Browser Syncing
 
